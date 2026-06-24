@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
