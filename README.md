@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
