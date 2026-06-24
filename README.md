@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
