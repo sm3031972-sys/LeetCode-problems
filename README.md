@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
