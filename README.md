@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
