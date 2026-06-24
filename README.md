@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Trie
 |  |
 | ------- |
