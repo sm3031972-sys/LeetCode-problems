@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0013-roman-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
 | ------- |
