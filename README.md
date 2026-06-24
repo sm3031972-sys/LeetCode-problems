@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
