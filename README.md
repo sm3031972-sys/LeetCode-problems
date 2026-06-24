@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
