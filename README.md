@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 ## Trie
 |  |
 | ------- |
