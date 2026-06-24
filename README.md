@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
