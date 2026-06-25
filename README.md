@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
