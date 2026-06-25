@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [1816-truncate-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1816-truncate-sentence) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1816-truncate-sentence) |
 ## Trie
 |  |
 | ------- |
