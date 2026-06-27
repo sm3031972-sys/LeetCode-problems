@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2057-smallest-index-with-equal-value) |
 ## Trie
 |  |
 | ------- |
