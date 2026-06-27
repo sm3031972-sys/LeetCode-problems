@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1859-sorting-the-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
 ## Array
 |  |
 | ------- |
