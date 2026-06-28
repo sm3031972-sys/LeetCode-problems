@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
+| [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 ## Trie
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1859-sorting-the-sentence) |
+| [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
