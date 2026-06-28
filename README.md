@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2490-circular-sentence) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Trie
 |  |
 | ------- |
