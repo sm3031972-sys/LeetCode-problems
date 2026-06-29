@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
 | ------- |
