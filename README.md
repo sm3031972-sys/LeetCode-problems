@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2469-convert-the-temperature) |
+| [2544-alternating-digit-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2544-alternating-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
