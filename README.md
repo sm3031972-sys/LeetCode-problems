@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 ## Recursion
 |  |
 | ------- |
