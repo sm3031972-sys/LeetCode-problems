@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
