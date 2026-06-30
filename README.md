@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Recursion
 |  |
 | ------- |
