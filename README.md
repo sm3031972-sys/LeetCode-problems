@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
