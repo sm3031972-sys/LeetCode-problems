@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
+| [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
+| [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
+| [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
