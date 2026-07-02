@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
+| [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
+| [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
 ## Trie
 |  |
 | ------- |
