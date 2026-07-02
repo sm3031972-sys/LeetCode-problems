@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
 | [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
