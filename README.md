@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
 | ------- |
