@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
 | [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
 | ------- |
