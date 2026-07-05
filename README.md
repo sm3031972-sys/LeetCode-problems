@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2923-find-champion-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2923-find-champion-i) |
 ## Trie
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [2923-find-champion-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2923-find-champion-i) |
 ## Simulation
 |  |
 | ------- |
