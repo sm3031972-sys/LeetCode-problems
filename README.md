@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Prefix Sum
 |  |
