@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0941-valid-mountain-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
