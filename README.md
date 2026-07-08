@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
