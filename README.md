@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2923-find-champion-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2923-find-champion-i) |
+| [2942-find-words-containing-character](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Trie
 |  |
