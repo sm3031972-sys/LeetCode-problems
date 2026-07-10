@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1446-consecutive-characters) |
 | [1507-reformat-date](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1507-reformat-date) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
