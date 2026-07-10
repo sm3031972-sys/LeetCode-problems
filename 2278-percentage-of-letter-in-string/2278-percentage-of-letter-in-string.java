@@ -8,7 +8,7 @@ class Solution {
             }
         }
         int len = s.length();
-        // int percentage = (int)(count/len)*100;
-        return (int) ((count * 100.0) / len);
+        int percentage = (int)((count*100)/len);
+        return percentage;
     }
 }
