@@ -1,7 +1,17 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
-        Arrays.sort(prices);
-       int minCost = prices[0] + prices[1];
+       int minimum = Math.min(prices[0],prices[1]);
+       int secondMinimum = Math.max(prices[0],prices[1]);
+       for(int i=2;i<prices.length;i++){
+            if(prices[i] < minimum){
+                secondMinimum = minimum;
+                minimum = prices[i];
+            }
+            else if(prices[i] < secondMinimum){
+                secondMinimum = prices[i];
+            }
+       }
+       int minCost = minimum + secondMinimum;
        if(minCost <= money){
         return money - minCost;
        } 
