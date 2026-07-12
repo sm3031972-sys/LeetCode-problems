@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
