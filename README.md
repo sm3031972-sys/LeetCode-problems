@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
