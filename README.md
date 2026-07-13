@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1436-destination-city) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1446-consecutive-characters) |
 | [1507-reformat-date](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1528-shuffle-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
