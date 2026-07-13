@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Trie
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
