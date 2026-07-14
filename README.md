@@ -372,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -384,5 +386,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
