@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Trie
 |  |
 | ------- |
