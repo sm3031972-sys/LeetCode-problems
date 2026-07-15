@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
