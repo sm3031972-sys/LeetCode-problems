@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 ## Trie
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 ## String Matching
 |  |
 | ------- |
