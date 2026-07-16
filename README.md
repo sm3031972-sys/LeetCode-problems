@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Trie
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Tree
 |  |
 | ------- |
