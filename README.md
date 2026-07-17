@@ -407,11 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0100-same-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0100-same-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0100-same-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Memoization
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
