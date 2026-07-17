@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
+| [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1436-destination-city) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
