@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2652-sum-multiples) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 ## String Matching
