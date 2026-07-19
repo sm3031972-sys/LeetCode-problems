@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3019-number-of-changing-keys) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Array
 |  |
 | ------- |
