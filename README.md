@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
+| [2678-number-of-senior-citizens](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2788-split-strings-by-separator) |
