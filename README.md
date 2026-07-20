@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Trie
 |  |
 | ------- |
