@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
