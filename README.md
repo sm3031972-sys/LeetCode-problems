@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Trie
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Recursion
 |  |
 | ------- |
