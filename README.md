@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3019-number-of-changing-keys) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3248-snake-in-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3248-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3248-snake-in-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3248-snake-in-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
+| [3248-snake-in-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3248-snake-in-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
