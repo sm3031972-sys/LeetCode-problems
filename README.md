@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1436-destination-city) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1436-destination-city) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
