@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3248-snake-in-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3248-snake-in-matrix) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Trie
 |  |
 | ------- |
