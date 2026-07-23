@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3151-special-array-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3248-snake-in-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3248-snake-in-matrix) |
